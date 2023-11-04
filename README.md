@@ -7,6 +7,7 @@ This repository contains MATLAB scripts for simulating the performance of a Non-
 - `NomaHybridMultiServiceMulticast.m` - Main simulation script for evaluating the NOMA system's multicast performance.
 - `NomaMultiRateMulticast.m` 
 - `NomaMultiServiceMulticast.m` - Multicast simulation with outage probability
+- The functionality is also implemented in Python
 
 ## Features
 - Monte Carlo simulation for assessing NOMA multicast rates.
